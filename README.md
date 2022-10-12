@@ -26,3 +26,8 @@ npm install -g @lightningjs/cli
 1. Install the NPM dependencies by running `npm install`
 
 2. Start the Lightning Dev Environment using `lng dev`
+
+## Working Version!! 
+
+https://user-images.githubusercontent.com/47008984/195388102-73f78582-2bf1-44a0-a327-b763dee50aeb.mov
+
