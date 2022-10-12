@@ -29,5 +29,4 @@ npm install -g @lightningjs/cli
 
 ## Working Version!! 
 
-https://user-images.githubusercontent.com/47008984/195388102-73f78582-2bf1-44a0-a327-b763dee50aeb.mov
-
+https://user-images.githubusercontent.com/47008984/195388248-9ab854bf-f8dd-47d7-b5fd-f8eae36a8d2e.mov
