@@ -1,12 +1,14 @@
+This project is a solution to this challenge -> https://github.com/RobRuizR/intermediate-lightning-challenge 
+
 # Lightning Intermediate code challenge
 
-Welcome to the intermediate-level code challenge for Lightning!
+Welcome to the intermediate-level code challenge for Lightning! This is snake game - the kind that we all have played on our nokia phones when we were younger! This is made using both basic and advanced level Lightning including Shaders. 
+
+Hope you have a fun time exploring! 
  
 ## Useful links
 
-- [Intermediate training slides](https://docs.google.com/presentation/d/1oD5Z0spLmPjL0ytYFiky8SFyx3fKx3IlSoFqlxHd1vQ/edit?usp=sharing)
 - [List of all the shaders Lightning includes](https://github.com/rdkcentral/Lightning/blob/master/src/lightning.mjs#L93)
-- [Folder with all the Lightning shaders](https://docs.google.com/presentation/d/1oD5Z0spLmPjL0ytYFiky8SFyx3fKx3IlSoFqlxHd1vQ/edit?usp=sharing)
 - https://lightningjs.io/docs/#/lightning-sdk-reference/plugins/router/index?id=router
 - https://lightningjs.io/docs/#/lightning-core-reference/Communication/Signal?id=signal
 - https://lightningjs.io/docs/#/lightning-core-reference/Components/LifecycleEvents?id=lifecycle-events
